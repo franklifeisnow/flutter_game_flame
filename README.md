@@ -1,9 +1,9 @@
 # flutter_game_flame
 
-A new Flutter project.
 
 学习flame开发
 - [pub.dev flame](https://pub.dev/packages/flame)
+- [flame tutorials](https://docs.flame-engine.org/1.5.0/tutorials/tutorials.html)
 
 ## Getting Started
 
